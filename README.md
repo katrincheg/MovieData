@@ -65,7 +65,7 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Results and Findings
 
-![Movies Data Dashboard](https://github.com/user-attachments/assets/dd363843-184b-4c35-9cd2-b7f4f888642b)
+![Movie Data Dashboard](https://github.com/user-attachments/assets/c33a28e3-d199-476d-a6b0-5b321b4c2d74)
 
 
 

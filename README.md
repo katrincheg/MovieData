@@ -34,19 +34,13 @@ By analyzing various aspects of the movie data, we seek to identify patterns, ma
 
 Movie Data: 
 
-The primary dataset used for this analysis is the "Movie Data Homework.xmls" file, containing detailed information about each movie's performance, actors, directors etc.
+The primary dataset used for this analysis is the "Movie Data Homework.xmls" file, containing detailed information about each movie's performance, actors, directors, etc.
 
-[Download here](https://github.com/Irene-arch/Documenting_Example?tab=readme-ov-file)
-
-
-
-
+[Download here](https://github.com/user-attachments/files/16405334/Movies.Data.Homework.xlsx)
 
 
 
 ### Tools
-
-
 
  - Power Query - Data Cleaning Download here
 
@@ -56,8 +50,6 @@ The primary dataset used for this analysis is the "Movie Data Homework.xmls" fil
 
 ### Data Cleaning/Preparation
 
-
-
 In the initial data preparation phase, we performed the following tasks:
 
 1. Data loading and inspection.
@@ -65,7 +57,6 @@ In the initial data preparation phase, we performed the following tasks:
 2. Handling errors, missing values.
 
 3. Data cleaning and formatting.
-
 
 
 ### Exploratory Data Analysis
@@ -80,7 +71,7 @@ In the initial data preparation phase, we performed the following tasks:
 
 #### M Language 
 
-One of interesting features I was working with was a specific code for Grouping in M language which enable me to Combine genres together for further analysis.
+One of the interesting features I was working with was a specific code for Grouping in M language which enable me to Combine genres together for further analysis.
 
 ```
 

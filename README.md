@@ -68,10 +68,15 @@ The Excel file after the data cleaning and preparation process can be  downloade
 ### Results and Findings
 
   The best profitable movie was: "The Devil Inside" with a Budget of 1,000,000 Box Office Revenue was 102,000,000 USD. The genre of this movie was "Horror".
+  
   The best actor was Jennifer Lawrence.
+  
   The best director was Chris Renaud.
+  
   The best genre was Action.
+  
   The best movie by Box Office Revenue was Despicable Me 2.
+  
   The best movie by budget was "The Hobbit: The Battle of the Five Armies". 
 
   

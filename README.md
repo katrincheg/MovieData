@@ -41,38 +41,40 @@ The primary dataset used for this analysis is the "Movie Data Homework.xmls" fil
 
 ### Tools
 
- - Power Query - Data Cleaning Download here
+ - Power Query - I used Power Query for Data Cleaning 
 
- - Excel, Pivot Tables - Data Analysis, Creating reports and visualizations
+ - Excel, Pivot Tables - I used them for Data Analysis, Creating reports and Visualizations
 
 
 
 ### Data Cleaning/Preparation
 
 In the initial data preparation phase, we performed the following tasks:
-
  - Data loading and inspection.
  - Handling errors, missing values.
  - Data cleaning and formatting.
+The Excel file after the data cleaning and preparation process can be  downloaded here - [Movies Data Ready for Dashboard.xlsx](https://github.com/user-attachments/files/16405712/Movies.Data.Ready.for.Dashboard.xlsx)
 
 
 ### Exploratory Data Analysis
 
  - Which genres were the most profitable these years?
- - Which actors were the most successful?...
+ - Which actors were the most successful?
+ - Which movie had the biggest Budget?
+ - Which movie was the most profitable these years?
+ - Which movie was the most unprofitable these years?
 
 
 ### Results and Findings
 
-The best profitable movie was: with Budget of... Box Office Revenue was 102,000,000 USD. The genre of this movie was...
-The best actor was..
-The best director was...
+The best profitable movie was: "The Devil Inside" with a Budget of 1,000,000 Box Office Revenue was 102,000,000 USD. The genre of this movie was "Horror".
+The best actor was Jennifer Lawrence.
+The best director was Chris Renaud.
+The best genre was Action.
+The best movie by Box Office Revenue was Despicable Me 2.
+The best movie by budget was "The Hobbit: The Battle of the Five Armies". 
 
-![Movie Data Dashboard](https://github.com/user-attachments/assets/172c60c1-9a9e-4daf-9fa2-b32c3752388b)
-
-![Worst Movie](https://github.com/user-attachments/assets/f92c086f-3070-4dff-beb3-e8a39e7572ec)
-
-![Best Prof Movie](https://github.com/user-attachments/assets/31ef7fcb-4ab7-4c28-ba7f-0cbe3eb67187)
+![Movie Data Dashboard](https://github.com/user-attachments/assets/71268df6-9a6e-4db0-9d56-ec5bfac4962e)
 
 
 #### M Language 

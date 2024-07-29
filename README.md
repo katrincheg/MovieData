@@ -79,6 +79,8 @@ The Excel file after the data cleaning and preparation process can be  downloade
   
   The best movie by budget was "The Hobbit: The Battle of the Five Armies". 
 
+
+
   
  
   ![Movie Data Dashboard](https://github.com/user-attachments/assets/01b260c9-57fb-4b7b-b511-90db817f2627)

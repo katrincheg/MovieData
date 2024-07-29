@@ -36,7 +36,7 @@ Movie Data:
 
 The primary dataset used for this analysis is the "Movie Data Homework.xmls" file, containing detailed information about each movie's performance, actors, directors, etc.
 
-[Download here](https://github.com/user-attachments/files/16405334/Movies.Data.Homework.xlsx)
+[Download here](https://github.com/user-attachments/files/16406210/Movies.Data.xlsx)
 
 
 ### Tools
@@ -53,7 +53,7 @@ In the initial data preparation phase, we performed the following tasks:
  - Data loading and inspection.
  - Handling errors, missing values.
  - Data cleaning and formatting.
-The Excel file after the data cleaning and preparation process can be  downloaded here - [Movies Data Ready for Dashboard.xlsx](https://github.com/user-attachments/files/16405712/Movies.Data.Ready.for.Dashboard.xlsx)
+The Excel file after the data cleaning and preparation process can be  downloaded here - [Dashboard](https://github.com/user-attachments/files/16406211/Movies.Data.Ready.for.Dashboard.xlsx)
 
 
 ### Exploratory Data Analysis
